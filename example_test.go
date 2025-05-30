@@ -1,10 +1,11 @@
+// Example functions for godoc.org
 package machineid_test
 
 import (
 	"fmt"
 	"log"
 
-	"github.com/denisbrodbeck/machineid"
+	"github.com/HuyenLTB24/machineid"
 )
 
 func Example() {
